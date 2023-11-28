@@ -1,5 +1,5 @@
 # 💜 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=25&pause=1000&color=70a5fd&background=7B85FF00&vCenter=true&random=false&width=435&height=25&lines=Rr.+Denti+Nurramadhona)](https://git.io/typing-svg)
-<div style="text-align: center">
+<div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rr-denti-nurramadhona-436b3b172/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-FF8C00?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rrdenti/)
@@ -15,7 +15,6 @@ Hi there! I'm diving deep into the world of code as a full-stack developer and m
 ---
 
 ### 🧰 Languages, Frameworks, and Tools
-<div style="margin-left: 30px;">
 
 #### <span style="color:#bf91f3;">Languages</span>
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,7 +42,6 @@ Hi there! I'm diving deep into the world of code as a full-stack developer and m
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-</div>
 <br />
 
 <hr>
@@ -75,11 +73,9 @@ Hi there! I'm diving deep into the world of code as a full-stack developer and m
   <summary>
     <h3>👩‍💻 Denti's Coding Journey</h3>
   </summary>
-  <div style="text-align: justify; margin-left: 30px;">
     <p>
-      As an informatics engineering student, my coding journey seamlessly blends technology and creativity. From initial exploration to practical applications, I've crafted solutions with a keen focus on positive social impact. Projects like 'PYP BaliCraft' showcase my commitment to UI/UX design for local craftsmanship promotion. The UI/UX event advertising platform and Sparta Vocabulary Notebook Website demonstrate my problem-solving skills and dedication to educational enhancement. Creating a streamlined student registration system at "PPDB Sekolah Anak Saleh Malang" emphasized the practical applications of technology in education. The 'Pet Adopt' project reflects my commitment to socially impactful initiatives. Additionally, my active participation in bootcamps, spanning website development, UI/UX, and mobile development, underscores my proactive approach to continuous learning. Each endeavor contributes to shaping my coding journey, defining me as an informatics engineering student ready for new challenges, particularly in the realms of web development.
+      As an informatics engineering student, my coding journey seamlessly blends technology and creativity. From initial exploration to practical applications, I've crafted solutions with a keen focus on positive social impact. Projects like 'PYP BaliCraft' showcase my commitment to UI/UX design for local craftsmanship promotion. The UI/UX event advertising platform and Sparta Vocabulary Notebook Website demonstrate my problem-solving skills and dedication to educational enhancement. Creating a streamlined student registration system at "PPDB Sekolah Anak Saleh Malang" emphasized the practical applications of technology in education. The 'Pet Adopt' project reflects my commitment to socially impactful initiatives. Additionally, my active participation in boot camps, spanning website development, UI/UX, and mobile development, underscores my proactive approach to continuous learning. Each endeavor contributes to shaping my coding journey, defining me as an informatics engineering student ready for new challenges, particularly in the realms of web development.
     </p>
-  </div>
 </details>
 
 
