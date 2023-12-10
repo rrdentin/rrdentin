@@ -1,8 +1,10 @@
 # 💜 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=25&pause=1000&color=70a5fd&background=7B85FF00&vCenter=true&random=false&width=435&height=25&lines=Rr.+Denti+Nurramadhona)](https://git.io/typing-svg)
 <div align="center">
+    
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rr-denti-nurramadhona-436b3b172/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-FF8C00?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rrdenti/)
-<img href="https://your_target_url.com](https://www.canva.com/design/DAF2j8Jlckk/VQxofPWVuzUKZj4UhW6lrg/view?utm_content=DAF2j8Jlckk&utm_campaign=designshare&utm_medium=link&utm_source=editor#1" alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
+    
+
 </div>
 
 **`Developer / UI & UX Designer`**
@@ -11,6 +13,12 @@ Hi there! I'm diving deep into the world of code as a full-stack developer and m
 
 
 ![](https://komarev.com/ghpvc/?username=rrdentin&style=flat-square&color=bf91f3)
+<div align="center">
+
+[![GIF animation preview](assets/nice.gif)](https://www.canva.com/design/DAF2j8Jlckk/VQxofPWVuzUKZj4UhW6lrg/view?utm_content=DAF2j8Jlckk&utm_campaign=designshare&utm_medium=link&utm_source=editor#1)
+Check out the full portfolio on Canva:  [⭐ Click Here](https://www.canva.com/design/DAF2j8Jlckk/VQxofPWVuzUKZj4UhW6lrg/view?utm_content=DAF2j8Jlckk&utm_campaign=designshare&utm_medium=link&utm_source=editor#1)
+</div>
+
 
 ---
 
