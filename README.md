@@ -16,7 +16,7 @@ Hi there! I'm diving deep into the world of code as a full-stack developer and m
 <div align="center">
 
 [![GIF animation preview](assets/nice.gif)](https://www.canva.com/design/DAF2j8Jlckk/VQxofPWVuzUKZj4UhW6lrg/view?utm_content=DAF2j8Jlckk&utm_campaign=designshare&utm_medium=link&utm_source=editor#1)
-Check out the full portfolio on Canva:  [⭐ Click Here](https://www.canva.com/design/DAF2j8Jlckk/VQxofPWVuzUKZj4UhW6lrg/view?utm_content=DAF2j8Jlckk&utm_campaign=designshare&utm_medium=link&utm_source=editor#1)
+Check out the full portfolio on Here:  [⭐ Click Here](https://www.canva.com/design/DAF2j8Jlckk/VQxofPWVuzUKZj4UhW6lrg/view?utm_content=DAF2j8Jlckk&utm_campaign=designshare&utm_medium=link&utm_source=editor#1)
 </div>
 
 
