@@ -1,3 +1,4 @@
+<img alt="Awesome GitHub Profile Readme" src="assets/Black Creative Professional Photographer Online Portfolio.gif"> </img>
 # 💜 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=25&pause=1000&color=70a5fd&background=7B85FF00&vCenter=true&random=false&width=435&height=25&lines=Rr.+Denti+Nurramadhona)](https://git.io/typing-svg)
 <div align="center">
 
