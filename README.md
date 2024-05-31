@@ -15,7 +15,7 @@ Hi there! I'm diving deep into the world of code as a full-stack developer and m
 ![](https://komarev.com/ghpvc/?username=rrdentin&style=flat-square&color=bf91f3)
 <div align="center">
 
-Check out the full portfolio on Here:  [⭐ Click Here](#)
+Check out the full portfolio on Here:  [⭐ Click Here](https://www.daintycube.my.id/)
 </div>
 
 
