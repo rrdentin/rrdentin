@@ -1,4 +1,4 @@
-# <img src="https://github.com/rrdentin/rrdentin/blob/main/assets/Desain%20tanpa%20judul.png?raw=true" alt="Icon" width="50"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=25&pause=1000&color=70a5fd&background=7B85FF00&vCenter=true&random=false&width=435&height=25&lines=Rr.+Denti+Nurramadhona)](https://git.io/typing-svg)
+# <img src="https://github.com/rrdentin/rrdentin/blob/main/assets/Desain%20tanpa%20judul.png?raw=true" alt="Icon" width="40"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=25&pause=1000&color=70a5fd&background=7B85FF00&vCenter=true&random=false&width=435&height=25&lines=Rr.+Denti+Nurramadhona)](https://git.io/typing-svg)
 <div align="center">
     
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rr-denti-nurramadhona-436b3b172/)
