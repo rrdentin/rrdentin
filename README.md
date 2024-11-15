@@ -81,7 +81,9 @@ Check out the full portfolio on Here:  [⭐ Click Here](https://www.daintycube.m
     <h3>👩‍💻 Denti's Coding Journey</h3>
   </summary>
     <p>
-      As an informatics engineering student, my coding journey seamlessly blends technology and creativity. From initial exploration to practical applications, I've crafted solutions with a keen focus on positive social impact. Projects like 'PYP BaliCraft' showcase my commitment to UI/UX design for local craftsmanship promotion. The UI/UX event advertising platform and Sparta Vocabulary Notebook Website demonstrate my problem-solving skills and dedication to educational enhancement. Creating a streamlined student registration system at "PPDB Sekolah Anak Saleh Malang" emphasized the practical applications of technology in education. The 'Pet Adopt' project reflects my commitment to socially impactful initiatives. Additionally, my active participation in boot camps, spanning website development, UI/UX, and mobile development, underscores my proactive approach to continuous learning. Each endeavor contributes to shaping my coding journey, defining me as an informatics engineering student ready for new challenges, particularly in the realms of web development.
+      As an informatics engineering student, my journey blends creativity with tech-driven solutions focused on social impact. From 'PYP BaliCraft,' promoting local craftsmanship through UI/UX design, to educational platforms like the Sparta Vocabulary Notebook and the 'Pet Adopt' project, I strive to make a difference through code.
+
+Recently, I had an exciting six-month internship as a Fullstack Web Developer in the Quality Department of a major manufacturing company. There, I tackled real-world tech challenges, creating web solutions to streamline quality processes, gaining hands-on experience and reinforcing my adaptability in a high-stakes environment.
     </p>
 </details>
 
