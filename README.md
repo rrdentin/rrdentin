@@ -1,7 +1,8 @@
 <p align=”center”>
 
-<img src="https://github.com/rrdentin/rrdentin/blob/main/assets/github.comrrdentin.png?raw=true" alt="my banner"/>
-
+<a href="https://www.daintycube.my.id/" target="_blank">
+  <img src="https://github.com/rrdentin/rrdentin/blob/main/assets/github.comrrdentin.png?raw=true" alt="My Banner" style="max-width: 100%; height: auto;" />
+</a>
 </p>
 
 # <img src="https://github.com/rrdentin/rrdentin/blob/main/assets/Desain%20tanpa%20judul.png?raw=true" alt="Icon" width="40"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=25&pause=1000&color=70a5fd&background=7B85FF00&vCenter=true&random=false&width=435&height=25&lines=Rr.+Denti+N)](https://git.io/typing-svg)
